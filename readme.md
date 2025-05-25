@@ -89,11 +89,6 @@ You can find all dependencies in the `requirements.txt`.
 
 * * *
 
-## ✨ Screenshot
-
-![screenshot]("images/image.png")
-* * *
-
 ## 📤 Deployment
 
 To deploy the app using Streamlit Cloud:
