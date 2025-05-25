@@ -2,8 +2,15 @@ import streamlit as slt
 import joblib
 
 
+slt.set_page_config(
+    page_title="IRIS CLASSIFICATION",
+    page_icon= "🌼"
+)
+
 slt.title("IRIS Classification")
-slt.text("Input the petal and sepal length and width and get the species of the flower (versicolor, setosa, virginica)")
+
+slt.image("images/main_img.png")
+slt.text("Input the details of a flower and predict which species they belong to (versicolor, setosa, virginica)")
 
 def check_valid(i):
     if i is None or i <= 0:
