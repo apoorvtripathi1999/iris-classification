@@ -12,7 +12,7 @@ The app visualizes **Precision-Recall Curves** to evaluate the models' performan
 
 ## 🚀 Live Demo
 
-[🔗 Click here to try the app](#)
+[🔗 Click here to try the app](https://iris-classification-v4hjbnlnwm2noqhedlxbjr.streamlit.app/)
 
 * * *
 
@@ -89,9 +89,9 @@ You can find all dependencies in the `requirements.txt`.
 
 * * *
 
-## ✨ Screenshots
+## ✨ Screenshot
 
-
+![screenshot]("images/image.png")
 * * *
 
 ## 📤 Deployment
