@@ -12,7 +12,7 @@ The app visualizes **Precision-Recall Curves** to evaluate the models' performan
 
 ## 🚀 Live Demo
 
-[🔗 Click here to try the app](#) _(Replace with your deployed Streamlit link)_
+[🔗 Click here to try the app](#)
 
 * * *
 
@@ -21,8 +21,6 @@ The app visualizes **Precision-Recall Curves** to evaluate the models' performan
 -   🧠 Train and test five popular ML models on the Iris dataset.
 -   📈 Visual comparison of performance using **Precision-Recall Curves**.
 -   🔍 Interactive UI with options to choose model and visualize results.
--   🧪 Display of model precision, recall, and F1-score.
--   📦 Lightweight and fast thanks to Streamlit.
 
 * * *
 
