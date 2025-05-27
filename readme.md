@@ -110,4 +110,4 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit PR
 
 -   **Author**: Apoorv Tripathi
 -   **Email**: apoorvtripathi537@gmail.com
--   **LinkedIn**: [@your-username](https://www.linkedin.com/in/apoorv-tripathi-19b132178/)
+-   **LinkedIn**: [@apoorv](https://www.linkedin.com/in/apoorv-tripathi-19b132178/)
